@@ -1,0 +1,2 @@
+# blog.tagup.gg
+tagupblog
